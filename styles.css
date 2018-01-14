@@ -1,0 +1,27 @@
+/* add your CSS here */
+
+img{
+    width: 300px;
+   margin-bottom: 10px;
+}
+.container{
+    margin: auto;
+    width: 300px;
+    border: rgb(187, 182, 182) solid 1px;
+    padding: 15px;
+    box-shadow: 10px 10px rgb(218, 213, 213);
+}
+.content{
+    border:   rgb(187, 182, 182) solid 1px;
+    padding: 10px;
+}
+.source{
+    color: rgb(138, 33, 33);
+    font-size: 12px;
+}
+
+ul, li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
